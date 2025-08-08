@@ -1,12 +1,12 @@
 :root {
-    --pj-achromatic: #000;
-    --pj-achromatic-100: #000;
-    --pj-achromatic-200: #000;
-    --pj-achromatic-300: #000;
-    --pj-achromatic-400: #000;
+    --pj-achromatic: #85808b;
+    --pj-achromatic-100: #e7e6e8;
+    --pj-achromatic-200: #ceccd1;
+    --pj-achromatic-300: #b6b3b9;
+    --pj-achromatic-400: #9e9aa2;
     --pj-achromatic-500: var(--pj-achromatic);
-    --pj-achromatic-600: #000;
-    --pj-achromatic-700: #000;
-    --pj-achromatic-800: #000;
-    --pj-achromatic-900: #000;
+    --pj-achromatic-600: #6d6774;
+    --pj-achromatic-700: #554e5d;
+    --pj-achromatic-800: #3d3545;
+    --pj-achromatic-900: #241b2e;
 }
