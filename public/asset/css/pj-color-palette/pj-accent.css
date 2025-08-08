@@ -1,0 +1,12 @@
+:root {
+    --pj-accent: #000;
+    --pj-accent-100: #000;
+    --pj-accent-200: #000;
+    --pj-accent-300: #000;
+    --pj-accent-400: #000;
+    --pj-accent-500: var(--pj-accent);
+    --pj-accent-600: #000;
+    --pj-accent-700: #000;
+    --pj-accent-800: #000;
+    --pj-accent-900: #000;
+}
