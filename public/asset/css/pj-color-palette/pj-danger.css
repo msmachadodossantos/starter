@@ -1,0 +1,12 @@
+:root {
+    --pj-danger: #000;
+    --pj-danger-100: #000;
+    --pj-danger-200: #000;
+    --pj-danger-300: #000;
+    --pj-danger-400: #000;
+    --pj-danger-500: var(--pj-danger);
+    --pj-danger-600: #000;
+    --pj-danger-700: #000;
+    --pj-danger-800: #000;
+    --pj-danger-900: #000;
+}
