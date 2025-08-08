@@ -1,12 +1,12 @@
 :root {
-    --pj-danger: #000;
-    --pj-danger-100: #000;
-    --pj-danger-200: #000;
-    --pj-danger-300: #000;
-    --pj-danger-400: #000;
+    --pj-danger: #da5757;
+    --pj-danger-100: #f8dddd;
+    --pj-danger-200: #f0bcbc;
+    --pj-danger-300: #e99a9a;
+    --pj-danger-400: #e17979;
     --pj-danger-500: var(--pj-danger);
-    --pj-danger-600: #000;
-    --pj-danger-700: #000;
-    --pj-danger-800: #000;
-    --pj-danger-900: #000;
+    --pj-danger-600: #ae4646;
+    --pj-danger-700: #833434;
+    --pj-danger-800: #572323;
+    --pj-danger-900: #2c1111;
 }
