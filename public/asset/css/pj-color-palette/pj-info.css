@@ -1,0 +1,12 @@
+:root {
+    --pj-info: #000;
+    --pj-info-100: #000;
+    --pj-info-200: #000;
+    --pj-info-300: #000;
+    --pj-info-400: #000;
+    --pj-info-500: var(--pj-info);
+    --pj-info-600: #000;
+    --pj-info-700: #000;
+    --pj-info-800: #000;
+    --pj-info-900: #000;
+}
