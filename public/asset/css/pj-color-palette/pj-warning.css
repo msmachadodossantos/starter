@@ -1,0 +1,12 @@
+:root {
+    --pj-warning: #000;
+    --pj-warning-100: #000;
+    --pj-warning-200: #000;
+    --pj-warning-300: #000;
+    --pj-warning-400: #000;
+    --pj-warning-500: var(--pj-warning);
+    --pj-warning-600: #000;
+    --pj-warning-700: #000;
+    --pj-warning-800: #000;
+    --pj-warning-900: #000;
+}
