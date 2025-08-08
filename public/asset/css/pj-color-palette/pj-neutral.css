@@ -1,0 +1,12 @@
+:root {
+    --pj-neutral: #000;
+    --pj-neutral-100: #000;
+    --pj-neutral-200: #000;
+    --pj-neutral-300: #000;
+    --pj-neutral-400: #000;
+    --pj-neutral-500: var(--pj-neutral);
+    --pj-neutral-600: #000;
+    --pj-neutral-700: #000;
+    --pj-neutral-800: #000;
+    --pj-neutral-900: #000;
+}
