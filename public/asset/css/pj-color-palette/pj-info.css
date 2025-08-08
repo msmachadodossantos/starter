@@ -1,12 +1,12 @@
 :root {
-    --pj-info: #000;
-    --pj-info-100: #000;
-    --pj-info-200: #000;
-    --pj-info-300: #000;
-    --pj-info-400: #000;
+    --pj-info: #3fc5c5;
+    --pj-info-100: #d9f3f3;
+    --pj-info-200: #b2e8e8;
+    --pj-info-300: #8cdcdc;
+    --pj-info-400: #65d1d1;
     --pj-info-500: var(--pj-info);
-    --pj-info-600: #000;
-    --pj-info-700: #000;
-    --pj-info-800: #000;
-    --pj-info-900: #000;
+    --pj-info-600: #329e9e;
+    --pj-info-700: #267676;
+    --pj-info-800: #194f4f;
+    --pj-info-900: #0d2727;
 }
