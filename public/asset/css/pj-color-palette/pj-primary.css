@@ -1,0 +1,12 @@
+:root {
+    --pj-primary: #000;
+    --pj-primary-100: #000;
+    --pj-primary-200: #000;
+    --pj-primary-300: #000;
+    --pj-primary-400: #000;
+    --pj-primary-500: var(--pj-primary);
+    --pj-primary-600: #000;
+    --pj-primary-700: #000;
+    --pj-primary-800: #000;
+    --pj-primary-900: #000;
+}
