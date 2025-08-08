@@ -1,0 +1,12 @@
+:root {
+    --pj-achromatic: #000;
+    --pj-achromatic-100: #000;
+    --pj-achromatic-200: #000;
+    --pj-achromatic-300: #000;
+    --pj-achromatic-400: #000;
+    --pj-achromatic-500: var(--pj-achromatic);
+    --pj-achromatic-600: #000;
+    --pj-achromatic-700: #000;
+    --pj-achromatic-800: #000;
+    --pj-achromatic-900: #000;
+}
