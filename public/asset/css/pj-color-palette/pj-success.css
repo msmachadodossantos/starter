@@ -1,0 +1,12 @@
+:root {
+    --pj-success: #000;
+    --pj-success-100: #000;
+    --pj-success-200: #000;
+    --pj-success-300: #000;
+    --pj-success-400: #000;
+    --pj-success-500: var(--pj-success);
+    --pj-success-600: #000;
+    --pj-success-700: #000;
+    --pj-success-800: #000;
+    --pj-success-900: #000;
+}
