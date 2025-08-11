@@ -1,0 +1,12 @@
+:root {
+    --info: #3fc5c5;
+    --info-100: #d9f3f3;
+    --info-200: #b2e8e8;
+    --info-300: #8cdcdc;
+    --info-400: #65d1d1;
+    --info-500: var(--info);
+    --info-600: #329e9e;
+    --info-700: #267676;
+    --info-800: #194f4f;
+    --info-900: #0d2727;
+}
