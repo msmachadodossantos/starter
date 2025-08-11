@@ -1,0 +1,12 @@
+:root {
+    --achromatic: #85808b;
+    --achromatic-100: #e7e6e8;
+    --achromatic-200: #ceccd1;
+    --achromatic-300: #b6b3b9;
+    --achromatic-400: #9e9aa2;
+    --achromatic-500: var(--achromatic);
+    --achromatic-600: #6d6774;
+    --achromatic-700: #554e5d;
+    --achromatic-800: #3d3545;
+    --achromatic-900: #241b2e;
+}
