@@ -1,0 +1,12 @@
+:root {
+    --primary: #7612ef;
+    --primary-100: #c8a0f9;
+    --primary-200: #ad71f5;
+    --primary-300: #9141f2;
+    --primary-400: #000;
+    --primary-500: var(--primary);
+    --primary-600: #5e0ebf;
+    --primary-700: #470b8f;
+    --primary-800: #2f0760;
+    --primary-900: #180430;
+}
