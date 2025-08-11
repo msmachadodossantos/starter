@@ -1,0 +1,12 @@
+:root {
+    --success: #006e2b;
+    --success-100: #cce2d5;
+    --success-200: #99c5aa;
+    --success-300: #66a880;
+    --success-400: #338b55;
+    --success-500: var(--success);
+    --success-600: #005822;
+    --success-700: #00421a;
+    --success-800: #002c11;
+    --success-900: #001609;
+}
