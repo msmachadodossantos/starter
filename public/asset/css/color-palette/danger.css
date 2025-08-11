@@ -1,0 +1,12 @@
+:root {
+    --danger: #da5757;
+    --danger-100: #f8dddd;
+    --danger-200: #f0bcbc;
+    --danger-300: #e99a9a;
+    --danger-400: #e17979;
+    --danger-500: var(--danger);
+    --danger-600: #ae4646;
+    --danger-700: #833434;
+    --danger-800: #572323;
+    --danger-900: #2c1111;
+}
