@@ -1,0 +1,12 @@
+:root {
+    --warning: #efa402;
+    --warning-100: #fcedcc;
+    --warning-200: #f9db9a;
+    --warning-300: #f5c867;
+    --warning-400: #f2b635;
+    --warning-500: var(--warning);
+    --warning-600: #bf8302;
+    --warning-700: #8f6201;
+    --warning-800: #604201;
+    --warning-900: #302100;
+}
