@@ -178,52 +178,185 @@
     ],
     "description": "bs5 accordion-item",
   },
-  "alert alert-danger": {
-    "prefix": "alert alert-danger",
+  "bs5 alert alert-danger": {
+    "prefix": "bs5 alert alert-danger",
     "body": [
-      "<div class=\"alert alert-danger alert-dismissible fade show\" role=\"alert\">",
+      "<div class=\"bs5 alert alert-danger alert-dismissible fade show\" role=\"alert\">",
       "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
       "",
       "    <h4 class=\"alert-heading\">Header</h4>",
       "    Body",
       "</div>",
     ],
-    "description": "alert alert-danger",
+    "description": "bs5 alert alert-danger",
   },
-  "alert alert-warning": {
-    "prefix": "alert alert-warning",
+  "bs5 alert alert-warning": {
+    "prefix": "bs5 alert alert-warning",
     "body": [
-      "<div class=\"alert alert-warning alert-dismissible fade show\" role=\"alert\">",
+      "<div class=\"bs5 alert alert-warning alert-dismissible fade show\" role=\"alert\">",
       "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
       "",
       "    <h4 class=\"alert-heading\">Header</h4>",
       "    Body",
       "</div>",
     ],
-    "description": "alert alert-warning",
+    "description": "bs5 alert alert-warning",
   },
-  "alert alert-success": {
-    "prefix": "alert alert-success",
+  "bs5 alert alert-success": {
+    "prefix": "bs5 alert alert-success",
     "body": [
-      "<div class=\"alert alert-success alert-dismissible fade show\" role=\"alert\">",
+      "<div class=\"bs5 alert alert-success alert-dismissible fade show\" role=\"alert\">",
       "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
       "",
       "    <h4 class=\"alert-heading\">Header</h4>",
       "    Body",
       "</div>",
     ],
-    "description": "alert alert-success",
+    "description": "bs5 alert alert-success",
   },
-  "alert alert-info": {
-    "prefix": "alert alert-info",
+  "bs5 alert alert-info": {
+    "prefix": "bs5 alert alert-info",
     "body": [
-      "<div class=\"alert alert-info alert-dismissible fade show\" role=\"alert\">",
+      "<div class=\"bs5 alert alert-info alert-dismissible fade show\" role=\"alert\">",
       "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
       "",
       "    <h4 class=\"alert-heading\">Header</h4>",
       "    Body",
       "</div>",
     ],
-    "description": "alert alert-info",
+    "description": "bs5 alert alert-info",
+  },
+  "bs5 breadcrumb": {
+    "prefix": "bs5 breadcrumb",
+    "body": [
+      "<nav aria-label=\"breadcrumb\">",
+      "    <ol class=\"breadcrumb\">",
+      "        <li class=\"breadcrumb-item\"><a href=\"#\">Home</a></li>",
+      "        <li class=\"breadcrumb-item\"><a href=\"#\">Library</a></li>",
+      "        <li class=\"breadcrumb-item active\" aria-current=\"page\">Data</li>",
+      "    </ol>",
+      "</nav>",
+    ],
+    "description": "bs5 breadcrumb",
+  },
+  "bs5 btn-primary [<button>]": {
+    "prefix": "bs5 btn-primary [<button>]",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-primary\">primary</button>",
+    ],
+    "description": "bs5 btn-primary [<button>]",
+  },
+  "bs5 btn-secondary [<button>]": {
+    "prefix": "bs5 btn-secondary [<button>]",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-secondary\">secondary</button>",
+    ],
+    "description": "bs5 btn-secondary [<button>]",
+  },
+  "bs5 btn-success [<button>]": {
+    "prefix": "bs5 btn-success [<button>]",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-success\">success</button>",
+    ],
+    "description": "bs5 btn-success [<button>]",
+  },
+  "bs5 btn-danger [<button>]": {
+    "prefix": "bs5 btn-danger [<button>]",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-danger\">danger</button>",
+    ],
+    "description": "bs5 btn-danger [<button>]",
+  },
+  "bs5 btn-warning [<button>]": {
+    "prefix": "bs5 btn-warning [<button>]",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-warning\">warning</button>",
+    ],
+    "description": "bs5 btn-warning [<button>]",
+  },
+  "bs5 btn-info [<button>]": {
+    "prefix": "bs5 btn-info [<button>]",
+    "body": ["<button type=\"button\" class=\"btn btn-info\">info</button>"],
+    "description": "bs5 btn-info [<button>]",
+  },
+  "bs5 btn-light [<button>]": {
+    "prefix": "bs5 btn-light [<button>]",
+    "body": ["<button type=\"button\" class=\"btn btn-light\">light</button>"],
+    "description": "bs5 btn-light [<button>]",
+  },
+  "bs5 btn-dark [<button>]": {
+    "prefix": "bs5 btn-dark [<button>]",
+    "body": ["<button type=\"button\" class=\"btn btn-dark\">dark</button>"],
+    "description": "bs5 btn-dark [<button>]",
+  },
+  "bs5 btn-link [<button>]": {
+    "prefix": "bs5 btn-link [<button>]",
+    "body": ["<button type=\"button\" class=\"btn btn-link\">link</button>"],
+    "description": "bs5 btn-link [<button>]",
+  },
+  "bs5 btn-primary [<a>]": {
+    "prefix": "bs5 btn-primary [<a>]",
+    "body": [
+      "<a class=\"btn btn-primary\" href=\"#\" role=\"button\">primary</a>",
+    ],
+    "description": "bs5 btn-primary [<a>]",
+  },
+  "bs5 btn-secondary [<a>]": {
+    "prefix": "bs5 btn-secondary [<a>]",
+    "body": [
+      "<a class=\"btn btn-secondary\" href=\"#\" role=\"button\">secondary</a>",
+    ],
+    "description": "bs5 btn-secondary [<a>]",
+  },
+  "bs5 btn-success [<a>]": {
+    "prefix": "bs5 btn-success [<a>]",
+    "body": [
+      "<a class=\"btn btn-success\" href=\"#\" role=\"button\">success</a>",
+    ],
+    "description": "bs5 btn-success [<a>]",
+  },
+  "bs5 btn-danger [<a>]": {
+    "prefix": "bs5 btn-danger [<a>]",
+    "body": [
+      "<a class=\"btn btn-danger\" href=\"#\" role=\"button\">danger</a>",
+    ],
+    "description": "bs5 btn-danger [<a>]",
+  },
+  "bs5 btn-warning [<a>]": {
+    "prefix": "bs5 btn-warning [<a>]",
+    "body": [
+      "<a class=\"btn btn-warning\" href=\"#\" role=\"button\">warning</a>",
+    ],
+    "description": "bs5 btn-warning [<a>]",
+  },
+  "bs5 btn-info [<a>]": {
+    "prefix": "bs5 btn-info [<a>]",
+    "body": ["<a class=\"btn btn-info\" href=\"#\" role=\"button\">info</a>"],
+    "description": "bs5 btn-info [<a>]",
+  },
+  "bs5 btn-light [<a>]": {
+    "prefix": "bs5 btn-light [<a>]",
+    "body": ["<a class=\"btn btn-light\" href=\"#\" role=\"button\">light</a>"],
+    "description": "bs5 btn-light [<a>]",
+  },
+  "bs5 btn-dark [<a>]": {
+    "prefix": "bs5 btn-dark [<a>]",
+    "body": ["<a class=\"btn btn-dark\" href=\"#\" role=\"button\">dark</a>"],
+    "description": "bs5 btn-dark [<a>]",
+  },
+  "bs5 btn-link [<a>]": {
+    "prefix": "bs5 btn-link [<a>]",
+    "body": ["<a class=\"btn btn-link\" href=\"#\" role=\"button\">link</a>"],
+    "description": "bs5 btn-link [<a>]",
+  },
+  "bs5 block buttons": {
+    "prefix": "bs5 block buttons",
+    "body": ["<div class=\"d-grid gap-2\">${1:buttons}</div>"],
+    "description": "bs5 block buttons",
+  },
+  "bs5 button group": {
+    "prefix": "bs5 button group",
+    "body": ["<div class=\"btn-group\" role=\"group\">${1:buttons}</div>"],
+    "description": "bs5 button group",
   },
 }
