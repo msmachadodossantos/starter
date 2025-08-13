@@ -7,4 +7,30 @@
     ],
     "description": "noscript",
   },
+  "pg-user-id": {
+    "prefix": "pg-user-id",
+    "body": [
+      "<div class=\"pg-user-id\">",
+      "    <div class=\"container\">",
+      "        <div class=\"row\">",
+      "            <div class=\"col\">Hi <strong>Marcos Medina Leite</strong>. <a href=\"#\">Sign out</a>.</div>",
+      "        </div>",
+      "    </div>",
+      "</div>",
+    ],
+    "description": "pg-user-id",
+  },
+  "pg-user-id warning": {
+    "prefix": "pg-user-id warning",
+    "body": [
+      "<div class=\"pg-user-id warning\">",
+      "    <div class=\"container\">",
+      "        <div class=\"row\">",
+      "            <div class=\"col\"><a href=\"#\">Sign in</a> to continue.</div>",
+      "        </div>",
+      "    </div>",
+      "</div>",
+    ],
+    "description": "pg-user-id warning",
+  },
 }
