@@ -178,4 +178,52 @@
     ],
     "description": "bs5 accordion-item",
   },
+  "alert alert-danger": {
+    "prefix": "alert alert-danger",
+    "body": [
+      "<div class=\"alert alert-danger alert-dismissible fade show\" role=\"alert\">",
+      "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
+      "",
+      "    <h4 class=\"alert-heading\">Header</h4>",
+      "    Body",
+      "</div>",
+    ],
+    "description": "alert alert-danger",
+  },
+  "alert alert-warning": {
+    "prefix": "alert alert-warning",
+    "body": [
+      "<div class=\"alert alert-warning alert-dismissible fade show\" role=\"alert\">",
+      "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
+      "",
+      "    <h4 class=\"alert-heading\">Header</h4>",
+      "    Body",
+      "</div>",
+    ],
+    "description": "alert alert-warning",
+  },
+  "alert alert-success": {
+    "prefix": "alert alert-success",
+    "body": [
+      "<div class=\"alert alert-success alert-dismissible fade show\" role=\"alert\">",
+      "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
+      "",
+      "    <h4 class=\"alert-heading\">Header</h4>",
+      "    Body",
+      "</div>",
+    ],
+    "description": "alert alert-success",
+  },
+  "alert alert-info": {
+    "prefix": "alert alert-info",
+    "body": [
+      "<div class=\"alert alert-info alert-dismissible fade show\" role=\"alert\">",
+      "    <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"alert\" aria-label=\"Close\"></button>",
+      "",
+      "    <h4 class=\"alert-heading\">Header</h4>",
+      "    Body",
+      "</div>",
+    ],
+    "description": "alert alert-info",
+  },
 }
