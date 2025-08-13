@@ -1,6 +1,6 @@
 {
   "CURRENT_SECONDS_UNIX": {
-    "prefix": "noscript",
+    "prefix": "CURRENT_SECONDS_UNIX",
     "body": ["${CURRENT_SECONDS_UNIX}"],
     "description": "CURRENT_SECONDS_UNIX",
   },
