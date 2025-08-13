@@ -1,0 +1,7 @@
+{
+  "timestamp": {
+    "prefix": "timestamp",
+    "body": ["${CURRENT_SECONDS_UNIX}"],
+    "description": "timestamp",
+  },
+}
