@@ -1,0 +1,10 @@
+{
+  "noscript": {
+    "prefix": "noscript",
+    "scope": "html",
+    "body": [
+      "<noscript> To view this document,<strong>enable JavaScript</strong>. </noscript>",
+    ],
+    "description": "noscript",
+  },
+}
