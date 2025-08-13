@@ -1,0 +1,55 @@
+/* X-Small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+.pg-user-id {
+    background-color: var(--info-100);
+    color: var(--info-800);
+    padding: calc(1rem / 2) 0;
+    text-align: right;
+
+    & a {
+        font-weight: 700;
+    }
+}
+
+.pg-user-id.danger {
+    background-color: var(--danger-100);
+    color: var(--danger-800);
+}
+
+.pg-user-id.warning {
+    background-color: var(--warning-100);
+    color: var(--warning-800);
+}
+
+.pg-user-id.success {
+    background-color: var(--success-100);
+    color: var(--success-800);
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+}
+
+/* Print Styles */
+@media print {
+}
